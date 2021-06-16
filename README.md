@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @camg-capco
-- 👀 I’m interested in learning new ways of testing and reading Bible
+- 👀 I’m interested in learning new ways of testing and reading the Bible
 - 🌱 I’m currently learning Robotic and Accessibility Testing
 - 💞️ I’m looking to collaborate on working as a team to build scalable applications 
 - 📫 How to reach me on my MT
